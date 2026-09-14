@@ -172,9 +172,3 @@ LIMIT 5;
 
 ---
 
-## Common patterns / lessons from debugging these
-
-- `JOIN <table> <alias> ON <condition>` — the table name always comes right after `JOIN`; `ON` only introduces the condition.
-- Any column in `SELECT` that isn't wrapped in an aggregate function (`SUM`, `COUNT`, etc.) must appear in `GROUP BY`.
-- `LIMIT` without `ORDER BY` returns an arbitrary subset — always pair them when you want "top N".
-- A trailing comma before `FROM` (or before any clause) is a common copy-paste error — check the last column in your `SELECT` list.
