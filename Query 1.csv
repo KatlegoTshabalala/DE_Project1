@@ -1,0 +1,151 @@
+ORDER_ID,QUANTITY,CUSTOMER_NAME,PRODUCT_NAME,CATEGORY
+O0001,4,Naledi Ndlovu,Shampoo,Beauty
+O0002,4,Zanele Mbeki,USB-C Cable,Electronics
+O0003,4,Pieter Coetzee,Sunglasses,Fashion
+O0004,1,Johan Mahlangu,Wireless Earbuds,Electronics
+O0005,3,Thabo Van der Merwe,Backpack,Fashion
+O0006,2,Naledi Naidoo,Desk Lamp,Home
+O0007,4,Ayanda Coetzee,Cap,Fashion
+O0008,2,Aisha Fourie,Storage Box,Home
+O0009,5,Michael Els,Cap,Fashion
+O0010,5,Naledi Naidoo,Wireless Earbuds,Electronics
+O0011,2,Zanele Nkosi,Power Bank,Electronics
+O0012,4,Nomvula Coetzee,Sunglasses,Fashion
+O0013,1,Ayanda Mokoena,Backpack,Fashion
+O0014,4,Nomvula Coetzee,Backpack,Fashion
+O0015,4,Naledi Coetzee,Cap,Fashion
+O0016,4,Grace Van der Merwe,Perfume,Beauty
+O0017,2,Zanele Van der Merwe,Throw Blanket,Home
+O0018,5,Thabo Van der Merwe,Lip Balm,Beauty
+O0019,1,Thabo Van der Merwe,Sneakers,Fashion
+O0020,5,Chloe Nkosi,Shampoo,Beauty
+O0021,5,Nomvula Coetzee,Wireless Earbuds,Electronics
+O0022,5,David Fourie,Coffee Mug,Home
+O0023,1,Michael Els,Desk Lamp,Home
+O0024,5,Zanele Mokoena,Desk Lamp,Home
+O0025,4,Sipho Els,Face Mask,Beauty
+O0026,5,Karabo Nkosi,Lip Balm,Beauty
+O0027,3,Naledi Dlamini,Storage Box,Home
+O0028,2,Naledi Ndlovu,Storage Box,Home
+O0029,3,Karabo Nkosi,Kitchen Scale,Home
+O0030,4,David Mbeki,Power Bank,Electronics
+O0031,1,Michael Els,Lip Balm,Beauty
+O0032,3,Ayanda Coetzee,Throw Blanket,Home
+O0033,1,Kagiso Dlamini,Denim Jacket,Fashion
+O0034,2,Naledi Ndlovu,Denim Jacket,Fashion
+O0035,3,Kagiso Fourie,Perfume,Beauty
+O0036,5,Michael Els,Moisturizer,Beauty
+O0037,2,Sipho Els,USB-C Cable,Electronics
+O0038,1,Naledi Coetzee,USB-C Cable,Electronics
+O0039,3,Lerato Mokoena,Perfume,Beauty
+O0040,3,Nomvula Pretorius,Face Mask,Beauty
+O0041,4,Ayanda Mokoena,Storage Box,Home
+O0042,4,Naledi Coetzee,Wireless Earbuds,Electronics
+O0043,3,Kagiso Naidoo,Wireless Earbuds,Electronics
+O0044,3,Fatima Sithole,Smart Watch,Electronics
+O0045,4,Nomvula Coetzee,Cap,Fashion
+O0046,1,Ayanda Ndlovu,Bluetooth Speaker,Electronics
+O0047,1,Grace Van der Merwe,Smart Watch,Electronics
+O0048,2,Aisha Ndlovu,Lip Balm,Beauty
+O0049,3,Naledi Fourie,Smart Watch,Electronics
+O0050,3,Aisha Ndlovu,Wireless Earbuds,Electronics
+O0051,1,Ayanda Mokoena,Desk Lamp,Home
+O0052,4,Pieter Coetzee,Perfume,Beauty
+O0053,2,Michael Els,Smart Watch,Electronics
+O0054,4,Nomvula Coetzee,Coffee Mug,Home
+O0055,3,Naledi Dlamini,Coffee Mug,Home
+O0056,2,Chloe Dlamini,Desk Lamp,Home
+O0057,1,Grace Van der Merwe,USB-C Cable,Electronics
+O0058,4,Michael Naidoo,Desk Lamp,Home
+O0059,2,Pieter Coetzee,Kitchen Scale,Home
+O0060,2,David Fourie,Bluetooth Speaker,Electronics
+O0061,1,Pieter Botha,Sneakers,Fashion
+O0062,5,Fatima Sithole,Storage Box,Home
+O0063,1,Pieter Botha,Perfume,Beauty
+O0064,5,Lerato Fourie,Storage Box,Home
+O0065,5,Naledi Coetzee,Wireless Earbuds,Electronics
+O0066,3,Naledi Fourie,Denim Jacket,Fashion
+O0067,1,Naledi Fourie,Face Mask,Beauty
+O0068,3,Kagiso Van der Merwe,Lip Balm,Beauty
+O0069,5,Sipho Els,Sunglasses,Fashion
+O0070,4,Ayanda Coetzee,Throw Blanket,Home
+O0071,3,Michael Els,Sneakers,Fashion
+O0072,3,Karabo Nkosi,USB-C Cable,Electronics
+O0073,4,Sam Van der Merwe,Kitchen Scale,Home
+O0074,3,Naledi Dlamini,Backpack,Fashion
+O0075,4,Ayanda Ndlovu,Smart Watch,Electronics
+O0076,2,Karabo Nkosi,Backpack,Fashion
+O0077,4,Michael Els,Lip Balm,Beauty
+O0078,3,Ayanda Ndlovu,Bluetooth Speaker,Electronics
+O0079,5,Ayanda Mokoena,Sunglasses,Fashion
+O0080,4,Lerato Khumalo,Sneakers,Fashion
+O0081,4,Kagiso Fourie,Throw Blanket,Home
+O0082,1,Lerato Mokoena,Coffee Mug,Home
+O0083,5,Nomvula Pretorius,Moisturizer,Beauty
+O0084,2,Kagiso Mbeki,Power Bank,Electronics
+O0085,2,Fatima Botha,Kitchen Scale,Home
+O0086,2,Zanele Van der Merwe,Bluetooth Speaker,Electronics
+O0087,1,Michael Naidoo,Face Mask,Beauty
+O0088,5,Sarah Pretorius,Sunglasses,Fashion
+O0089,4,Zanele Mbeki,Backpack,Fashion
+O0090,1,Naledi Ndlovu,Smart Watch,Electronics
+O0091,4,David Mbeki,USB-C Cable,Electronics
+O0092,5,David Fourie,Coffee Mug,Home
+O0093,2,Sarah Pretorius,Wireless Earbuds,Electronics
+O0094,4,Lerato Fourie,Cap,Fashion
+O0095,5,Karabo Nkosi,Moisturizer,Beauty
+O0096,5,Naledi Dlamini,Cap,Fashion
+O0097,2,Naledi Fourie,Perfume,Beauty
+O0098,3,Lerato Mokoena,Shampoo,Beauty
+O0099,3,David Mbeki,Desk Lamp,Home
+O0100,2,Fatima Sithole,Moisturizer,Beauty
+O0101,3,Kagiso Naidoo,Cap,Fashion
+O0102,3,Naledi Ndlovu,Storage Box,Home
+O0103,2,Ayanda Coetzee,Power Bank,Electronics
+O0104,2,David Fourie,Backpack,Fashion
+O0105,4,Sipho Ndlovu,Throw Blanket,Home
+O0106,4,Chloe Dlamini,Sneakers,Fashion
+O0107,4,Chloe Dlamini,Wireless Earbuds,Electronics
+O0108,1,Kagiso Van der Merwe,Lip Balm,Beauty
+O0109,4,David Mbeki,Lip Balm,Beauty
+O0110,4,Zanele Nkosi,Denim Jacket,Fashion
+O0111,5,Chloe Dlamini,Perfume,Beauty
+O0112,2,Lerato Khumalo,Desk Lamp,Home
+O0113,1,Kagiso Naidoo,Sunglasses,Fashion
+O0114,4,Kagiso Van der Merwe,Sneakers,Fashion
+O0115,4,Johan Mahlangu,Coffee Mug,Home
+O0116,1,Kagiso Dlamini,Face Mask,Beauty
+O0117,1,Pieter Botha,Lip Balm,Beauty
+O0118,4,David Fourie,Sunglasses,Fashion
+O0119,4,Aisha Fourie,Wireless Earbuds,Electronics
+O0120,3,Naledi Dlamini,Throw Blanket,Home
+O0121,4,Kagiso Mbeki,Backpack,Fashion
+O0122,1,Naledi Coetzee,Power Bank,Electronics
+O0123,3,Lerato Mokoena,Perfume,Beauty
+O0124,1,David Fourie,Power Bank,Electronics
+O0125,2,David Mbeki,Bluetooth Speaker,Electronics
+O0126,2,Zanele Mbeki,Bluetooth Speaker,Electronics
+O0127,1,Naledi Ndlovu,Smart Watch,Electronics
+O0128,3,Zanele Mokoena,Throw Blanket,Home
+O0129,5,Fatima Sithole,Denim Jacket,Fashion
+O0130,2,Lerato Khumalo,USB-C Cable,Electronics
+O0131,1,Sipho Els,USB-C Cable,Electronics
+O0132,4,Sipho Els,Lip Balm,Beauty
+O0133,5,Pieter Botha,Throw Blanket,Home
+O0134,3,Grace Van der Merwe,Desk Lamp,Home
+O0135,1,Fatima Botha,Face Mask,Beauty
+O0136,5,Zanele Mokoena,Wireless Earbuds,Electronics
+O0137,5,Naledi Fourie,Denim Jacket,Fashion
+O0138,4,Michael Mbeki,Sneakers,Fashion
+O0139,3,Zanele Dlamini,USB-C Cable,Electronics
+O0140,2,Nomvula Ndlovu,Cap,Fashion
+O0141,5,Naledi Fourie,Coffee Mug,Home
+O0142,5,Michael Mbeki,Storage Box,Home
+O0143,4,Fatima Sithole,Shampoo,Beauty
+O0144,3,Johan Mahlangu,Lip Balm,Beauty
+O0145,4,Naledi Ndlovu,Power Bank,Electronics
+O0146,5,Naledi Ndlovu,Cap,Fashion
+O0147,1,Karabo Nkosi,Backpack,Fashion
+O0148,4,Zanele Dlamini,Sneakers,Fashion
+O0149,3,Ayanda Mokoena,Denim Jacket,Fashion
+O0150,5,Kagiso Mbeki,Storage Box,Home
